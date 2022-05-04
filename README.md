@@ -1,2 +1,2 @@
-# tust-bilibiil
-基于SpringBoot的视频流网站后端开发
+# tust-bilibili
+基于SpringBoot的流媒体视频网站后台开发
