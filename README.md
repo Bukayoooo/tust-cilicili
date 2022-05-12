@@ -1,5 +1,5 @@
 # tust-bilibili
-<img src="http://bukayo.cc/img/bilibili.webp" style="display:block;max-width: 30%;height: auto;margin-bottom:0.2rem;margin-top:0.2rem"/>
+<img src="http://bukayo.cc/img/bilibili.webp" style="display:block;max-width:30%;height:auto;margin-bottom:0.2rem;margin-top:0.2rem"/>
 
 <p align="center" style="display:block;margin-bottom:0.2rem;margin-top:0.2rem">
     基于springboot的流媒体视频网站后台开发
