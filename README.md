@@ -1,7 +1,8 @@
 # tust-bilibili
-![bilibili](https://user-images.githubusercontent.com/67252967/168197172-66caebbe-5ff9-4edb-a8f0-c18d4bf46554.png)
-
-<p align="center">
+<p align="center" dir="auto">
+    <img src="https://user-images.githubusercontent.com/67252967/168198779-d7a23614-d2c7-4a62-9fb0-0fe3fd40e563.png"/>
+</p>
+<p align="center" dir="auto">
     基于springboot的流媒体视频网站后台开发
 </p>
 <p align="center" dir="auto">
