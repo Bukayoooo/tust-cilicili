@@ -34,7 +34,7 @@ tust-bilibili是一个仿B站的视频网站后台开发项目，项目基于spr
 ```
 tust-bilibili
 ├── tust-bilibili-api 		-- api层
-├── tust-bilibili-service -- service层
+├── tust-bilibili-service   -- service层
 └── tust-bilibili-mapper 	-- mapper层
 ```
 ## 架构图
